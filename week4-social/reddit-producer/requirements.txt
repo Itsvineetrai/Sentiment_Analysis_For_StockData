@@ -1,0 +1,5 @@
+praw
+python-dotenv
+confluent-kafka 
+requests
+pandas

@@ -1,0 +1,3 @@
+tweepy
+confluent-kafka
+python-dotenv

@@ -1,0 +1,93 @@
+Ticker,Company,Aliases
+NVDA,NVIDIA Corporation,NVIDIA;NVDA
+MSFT,Microsoft Corporation,Microsoft;MSFT
+AAPL,Apple Inc.,Apple;AAPL
+GOOGL,"Alphabet Inc. (Class A)",Alphabet;GOOGL
+AMZN,"Amazon.com, Inc.",Amazon;AMZN
+META,"Meta Platforms, Inc.",Meta;META
+TSLA,Tesla Inc.,Tesla;TSLA
+AVGO,Broadcom Inc.,Broadcom;AVGO
+BRK.B,"Berkshire Hathaway Inc. (Class B)","Berkshire Hathaway;BRK.B"
+JNJ,Johnson & Johnson,"Johnson & Johnson;JNJ"
+WMT,Walmart Inc.,Walmart;WMT
+V,Visa Inc.,Visa;V
+PG,Procter & Gamble Co.,"Procter & Gamble;PG"
+MA,Mastercard Inc.,Mastercard;MA
+UNH,UnitedHealth Group Incorporated,UnitedHealth;UNH
+HD,Home Depot Inc.,"Home Depot;HD"
+DIS,Walt Disney Co.,Disney;DIS
+PYPL,"PayPal Holdings, Inc.",PayPal;PYPL
+NFLX,Netflix Inc.,Netflix;NFLX
+INTC,Intel Corporation,Intel;INTC
+CSCO,"Cisco Systems, Inc.",Cisco;CSCO
+PEP,"PepsiCo, Inc.",PepsiCo;PEP
+KO,"Coca-Cola Company (The)",Coca-Cola;KO
+BA,"Boeing Company (The)",Boeing;BA
+IBM,"International Business Machines Corporation",IBM;IBM
+T,"AT&T Inc.","AT&T;T"
+XOM,Exxon Mobil Corporation,Exxon;XOM
+CVX,Chevron Corporation,Chevron;CVX
+MRK,"Merck & Co., Inc.",Merck;MRK
+ABT,Abbott Laboratories,Abbott;ABT
+AMGN,Amgen Inc.,Amgen;AMGN
+LLY,Eli Lilly and Company,"Eli Lilly;LLY"
+MDT,Medtronic plc,Medtronic;MDT
+BMY,Bristol-Myers Squibb Company,"Bristol-Myers Squibb;BMY"
+GILD,"Gilead Sciences, Inc.",Gilead;GILD
+COP,ConocoPhillips,ConocoPhillips;COP
+MCD,"McDonald's Corporation","McDonald's;MCD"
+LMT,"Lockheed Martin Corporation","Lockheed Martin;LMT"
+CVS,"CVS Health Corporation",CVS;CVS
+UPS,"United Parcel Service, Inc.",UPS;UPS
+CAT,Caterpillar Inc.,Caterpillar;CAT
+RTX,"Raytheon Technologies Corporation","Raytheon Technologies;RTX"
+GS,"Goldman Sachs Group, Inc. (The)","Goldman Sachs;GS"
+SPGI,"S&P Global Inc.","S&P Global;SPGI"
+CSX,CSX Corporation,CSX;CSX
+MMM,3M Company,3M;MMM
+TMO,"Thermo Fisher Scientific Inc.",Thermo Fisher;TMO
+AXP,"American Express Company","American Express;AXP"
+AMT,"American Tower Corporation","American Tower;AMT"
+DUK,"Duke Energy Corporation","Duke Energy;DUK"
+EMR,"Emerson Electric Co.",Emerson;EMR
+FDX,"FedEx Corporation",FedEx;FDX
+GD,"General Dynamics Corporation","General Dynamics;GD"
+GE,"General Electric Company","General Electric;GE"
+GM,"General Motors Company","General Motors;GM"
+GOOG,"Alphabet Inc. (Class C)",Alphabet;GOOG
+HON,"Honeywell International Inc.",Honeywell;HON
+JPM,"JPMorgan Chase & Co.","JPMorgan;JPM"
+LIN,Linde plc,Linde;LIN
+LOW,"Lowe's Companies, Inc.","Lowe's;LOW"
+MA,"Mastercard Incorporated",Mastercard;MA
+MDLZ,"Mondelēz International, Inc.",Mondelēz;MDLZ
+MET,"MetLife, Inc.",MetLife;MET
+MO,"Altria Group, Inc.",Altria;MO
+MS,"Morgan Stanley","Morgan Stanley;MS"
+NEE,"NextEra Energy, Inc.","NextEra Energy;NEE"
+NKE,"Nike, Inc.",Nike;NKE
+ORCL,"Oracle Corporation",Oracle;ORCL
+PFE,"Pfizer Inc.",Pfizer;PFE
+QCOM,"Qualcomm Incorporated","Qualcomm;QCOM"
+VZ,"Verizon Communications Inc.",Verizon;VZ
+WBA,"Walgreens Boots Alliance, Inc.",Walgreens;WBA
+RELIANCE,"Reliance Industries Ltd.",Reliance;RIL
+TCS,"Tata Consultancy Services Ltd.","TCS;Tata Consultancy Services"
+HDFCBANK,"HDFC Bank Ltd.","HDFC Bank"
+INFY,"Infosys Ltd.",Infosys
+HINDUNILVR,"Hindustan Unilever Ltd.","Hindustan Unilever;HUL"
+ICICIBANK,"ICICI Bank Ltd.","ICICI Bank"
+KOTAKBANK,"Kotak Mahindra Bank Ltd.","Kotak Mahindra Bank"
+ITC,"ITC Ltd.",ITC
+LT,"Larsen & Toubro Ltd.","Larsen & Toubro"
+SBIN,"State Bank of India",SBI
+BAJAJ-AUTO,"Bajaj Auto Ltd.","Bajaj Auto"
+ASIANPAINT,"Asian Paints Ltd.","Asian Paints"
+MARUTI,"Maruti Suzuki India Ltd.","Maruti Suzuki"
+HCLTECH,"HCL Technologies Ltd.","HCL Technologies"
+ULTRACEMCO,"UltraTech Cement Ltd.","UltraTech Cement"
+TITAN,"Titan Company Ltd.","Titan"
+SUNPHARMA,"Sun Pharmaceutical Industries Ltd.","Sun Pharma"
+POWERGRID,"Power Grid Corporation of India Ltd.","Power Grid"
+NTPC,"NTPC Ltd.",NTPC
+ONGC,"Oil and Natural Gas Corporation Ltd.","ONGC"

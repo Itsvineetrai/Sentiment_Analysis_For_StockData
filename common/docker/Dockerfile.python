@@ -1,0 +1,14 @@
+FROM python:3.11-slim
+WORKDIR /app
+#copy requirements.txt .
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the application code
+COPY src/ /app/src
+
+#ensure logs print immediately
+ENV PYTHONUNBUFFERED=1
+
+#Default command can be overridden in child images 
+CMD [ "python", "app/src/producer.py" ]
